@@ -19,10 +19,17 @@ Peer review scores
 What if my teammates or I have power outages, lost computers,  major life events sickness, death, birth and cannot meet the expectations and committed to work?
 
 ### Optional resources
-Design Tool for UI mock ups and Entity Data work  [draw.io]
 
-[https://vercel.com/templates]
-[https://www.creative-tim.com/templates/nextjs?filter=true]
+github 
+https://byui-cse.github.io/wdd430-ww-course/pages/group-github-workflow.html
+
+User story
+https://business.adobe.com/blog/basics/user-stories-overview#:~:text=A%20user%20story%20is%20a,steps%20that%20are%20more%20manageable.
+
+Design Tool for UI mock ups and Entity Data work  [draw.io]
+https://www.sketch.com/
+https://tailwindcss.com/docs/theme)https://tailwindcss.com/docs/theme
+https://www.adobe.com/products/xd.html
 
 udemy 
 

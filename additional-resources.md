@@ -2,7 +2,13 @@ FAQ
 
 
 how to get help or unstuck?
-
+Try using Bing AI chat
+Open AI Chapt GPT 
+GOogle Gmemin (previousl Barad) 
+As a develoepr I want to ...
+workign on a next js 14 project ... (add all the tech related to the error issue question) 
+then change the quesiton 2 x  
+then ask the main genral chat in the simplest most conssie sepcfic techncial way you can. it takes practice. 
 
 How to maintian effective Group work?
 Doing project on my own? still get credit 

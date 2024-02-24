@@ -17,3 +17,9 @@ Make sure to make the board public (it's Read only)
 
 
 Teams
+User Stories 
+DEMO 
+https://github.com/users/murffps/projects/1/views/1?pane=issue&itemId=54323439
+
+
+<img width="266" alt="image" src="https://github.com/murffps/wdd430-byui-demo/assets/102767761/f4b62dd3-f507-403d-b70c-1bc06549d3dc">

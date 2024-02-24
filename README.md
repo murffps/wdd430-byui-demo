@@ -23,3 +23,5 @@ DEMO ITEM https://github.com/users/murffps/projects/1/views/1?pane=issue&itemId=
 ADD collaborators 
 <img width="1408" alt="image" src="https://github.com/murffps/wdd430-byui-demo/assets/102767761/529c9d4c-10c1-4f19-b84b-a1e9c951aa37">
 
+Your Teammates will get an email
+<img width="641" alt="image" src="https://github.com/murffps/wdd430-byui-demo/assets/102767761/c1bcaba0-ccc0-41c4-ad49-8e877d2cef6a">

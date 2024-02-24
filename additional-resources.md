@@ -11,6 +11,9 @@ then change the quesiton 2 x
 then ask the main genral chat in the simplest most conssie sepcfic techncial way you can. it takes practice. 
 
 How to maintian effective Group work?
+remember first we are disclies. of Chirst.  be patient understanding .. assume the best.. 
+communicate clealry 
+
 Doing project on my own? still get credit 
 Peer review scores 
 What if my teammates or I have power outages, lost computers,  major life events sickness, death, birth and cannot meet the expectations and committed to work?

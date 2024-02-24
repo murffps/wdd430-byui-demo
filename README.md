@@ -14,3 +14,6 @@ Give it a name related for your group. You can try the Team Planning Template or
 
 Make sure to make the board public (it's Read only)
 <img width="1496" alt="image" src="https://github.com/murffps/wdd430-byui-demo/assets/102767761/b55b11e8-a305-4883-9526-79f1017d94d5">
+
+
+Teams

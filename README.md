@@ -19,8 +19,8 @@ DEMO User Story [https://github.com/users/murffps/projects/1/views/1?pane=issue&
 <img width="1408" alt="image" src="https://github.com/murffps/wdd430-byui-demo/assets/102767761/529c9d4c-10c1-4f19-b84b-a1e9c951aa37">
 
 Your Teammates will get an email and have to accept that to join. 
-[https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-user-account-settings/permission-levels-for-a-personal-account-repository]
-[https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository]
+(github docs on permissions)[https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-user-account-settings/permission-levels-for-a-personal-account-repository]
+(github docs on teams)[https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository]
 
 <img width="641" alt="image" src="https://github.com/murffps/wdd430-byui-demo/assets/102767761/c1bcaba0-ccc0-41c4-ad49-8e877d2cef6a">
 <img width="562" alt="image" src="https://github.com/murffps/wdd430-byui-demo/assets/102767761/cba62790-d769-4ec3-9ce1-891d1fe01efe">

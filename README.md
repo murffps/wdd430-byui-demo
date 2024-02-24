@@ -4,8 +4,8 @@ A resource for students of wdd 430 byu i
 
 NOTE: Eer push API keys to github or put then in the boards
 
-Adding sgtudents to make a tema
-USing the Proejct as a Board -- https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects
+
+Proejct as a Board -- https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects
 
 
 Create a project:
@@ -24,6 +24,9 @@ ADD collaborators
 <img width="1408" alt="image" src="https://github.com/murffps/wdd430-byui-demo/assets/102767761/529c9d4c-10c1-4f19-b84b-a1e9c951aa37">
 
 Your Teammates will get an email
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-user-account-settings/permission-levels-for-a-personal-account-repository
+
 https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository
+
 <img width="641" alt="image" src="https://github.com/murffps/wdd430-byui-demo/assets/102767761/c1bcaba0-ccc0-41c4-ad49-8e877d2cef6a">
 <img width="562" alt="image" src="https://github.com/murffps/wdd430-byui-demo/assets/102767761/cba62790-d769-4ec3-9ce1-891d1fe01efe">

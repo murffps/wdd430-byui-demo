@@ -20,7 +20,7 @@ Teams
 User Stories (make sure to convert to an issue and add collaborators to assign the issue to) 
 DEMO ITEM https://github.com/users/murffps/projects/1/views/1?pane=issue&itemId=54323439
 
-ADD collaborators 
+ADD  Collaborators  They will have read and write access. (personal or free accounts) 
 <img width="1408" alt="image" src="https://github.com/murffps/wdd430-byui-demo/assets/102767761/529c9d4c-10c1-4f19-b84b-a1e9c951aa37">
 
 Your Teammates will get an email

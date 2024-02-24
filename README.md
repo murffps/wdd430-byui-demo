@@ -1,8 +1,8 @@
 # wdd430-byui-demo
-A resource for students of wdd 430 byu i 
+A resource for students of wdd430 byui 
 
 
-NOTE: Eer push API keys to github or put then in the boards
+Security NOTE: Never push API keys to github or put then in the boards
 
 
 Proejct as a Board -- https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects

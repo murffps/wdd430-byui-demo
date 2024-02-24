@@ -1,5 +1,12 @@
 # wdd430-byui-demo - A resource for students of wdd430 byui 
 
+Purpose - to help students perform the following actions:
+- use Github projects to manage work items as a board. 
+- make sure to make the board privacy is set to public for grader access.
+- see an example board and user story.
+- add their teammates to the repo to collaborate. 
+
+
 ## GITHUB 
 Security NOTE: Never push API keys or any secure info to github or put them in the boards
 

@@ -1,6 +1,12 @@
 FAQ 
 
 
+
+Deploy to vercel --- 
+issues 
+settings 
+framework preset : Next JS
+
 how to get help or unstuck?
 Try using Bing AI chat
 Open AI Chapt GPT 
